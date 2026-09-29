@@ -1,0 +1,7 @@
+- [x] T1: Write tests for AC-1 to AC-6 (all FRs)
+- [x] T2: Implement storage load/save (FR-5)
+- [x] T3: Implement add + list (FR-1, FR-2)
+- [x] T4: Implement done + delete (FR-3, FR-4)
+- [x] T5: Add error handling (FR-6)
+- [x] T6: Wire up CLI with argparse
+- [x] T7: Walk through every AC manually and tick them off
